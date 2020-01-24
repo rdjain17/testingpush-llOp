@@ -1,0 +1,3 @@
+Here 
+from local machine to remote repo
+i am gonna Push 2 files called by push1 and push2 in text form
